@@ -1,7 +1,7 @@
 Heart disease prediction using entropy based feature engineering and ensembling of machine learning classifiers
 Authors : Rajkamal Rajendran, Anitha Karthi
 
-Highlights of this reseach work:
+Highlights of this reseach work: <br>
 A novel framework for heart disease detection is proposed. <br>
 Handling categorical attributes based on its importance in health care and outcome. <br>
 Covariance-based multivariate outlier detection is used for the outlier detection. <br>
