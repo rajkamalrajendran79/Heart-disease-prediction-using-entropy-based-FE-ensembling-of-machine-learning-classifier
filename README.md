@@ -1,4 +1,4 @@
-Heart disease prediction using entropy based feature engineering and ensembling of machine learning classifiers
+Heart disease prediction using entropy based feature engineering and ensembling of machine learning classifiers <br>
 Authors : Rajkamal Rajendran, Anitha Karthi
 
 Highlights of this reseach work: <br>
